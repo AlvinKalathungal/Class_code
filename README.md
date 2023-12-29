@@ -1,2 +1,3 @@
 # Class_code
-Code for Brandeis Class
+Code for Brandeis Class for RBIF100
+
